@@ -1,2 +1,2 @@
 # java
-Assignment of java
+Java Assignment
