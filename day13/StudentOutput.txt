@@ -1,0 +1,6 @@
+Student [rollNo=dac102, name=satish, dob=2019-05-11, subject=ML, gpa=4.5]
+Student [rollNo=dbda175, name=luv, dob=2020-01-01, subject=DBT, gpa=6.5]
+Student [rollNo=dbda101, name=anita, dob=2019-11-21, subject=JAVA, gpa=7.0]
+Student [rollNo=dac100, name=ravi, dob=2019-01-01, subject=CLOUD, gpa=8.5]
+Student [rollNo=dbda104, name=kush, dob=2018-07-11, subject=JAVA, gpa=8.8]
+Student [rollNo=dbda108, name=sai, dob=2019-01-13, subject=R, gpa=9.7]
